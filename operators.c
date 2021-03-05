@@ -54,6 +54,13 @@ printf("%d\n",result);
 //>>(Right Shift): Right shift operator shifts all bits towards right by certain number of specified bits. It is denoted by >>.
 //<< (Left Shift): Left shift operator shifts all bits towards left by a certain number of specified bits. The bit positions that have been vacated by the left shift operator are filled with 0. The symbol of the left shift operator is <<.
 
-// To know more about bitwise operaotrs . Just visit the web page: https://www.programiz.com/c-programming/bitwise-operators
+// To know more about bitwise operaotrs . Just visit the web page: https://www.program
+//Increment and decrement Operators
+printf("Increment + Operator %d\n",a++);
+printf("Increment - Operator %d\n",a--);
+printf("Increment - Operator %d\n",a);
+printf("Increment + Operator %d\n",++a);
+printf("Increment - Operator %d\n",--a);
+printf("Increment - Operator %d",a);
     return 0;
 }
